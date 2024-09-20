@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://your-live-site-url.com](https://ksnape34.github.io/Blog-Preview-Card-HTML-CSS/)
+- Live Site URL: [Blog Preview Card](https://ksnape34.github.io/Blog-Preview-Card-HTML-CSS/)
 
 ## My process
 
